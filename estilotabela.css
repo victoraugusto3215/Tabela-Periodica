@@ -1,0 +1,131 @@
+td
+{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.titulo
+{
+    font-size: 38;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+a:visited
+{
+    color: black;
+    text-decoration: none;
+}
+
+.numero_atomico
+{
+    text-align: left;
+    margin: 3;
+}
+.simbolo
+{
+    font-weight: bold;
+    font-size: 25;
+}
+
+
+#hidrogenio
+{
+    background: #5D95C6;
+}
+
+.metais_alcalinos
+{
+    background: #349769;
+}
+.metais_alcalinos_terrosos
+{
+    background: #99B841;
+}
+.metais_de_transicao
+{
+    background: #FAAA55;
+}
+.semimetais
+{
+    background: #F6AFCF;
+}
+
+.gases_nobres
+{
+    background: #F99AA2;
+}
+
+.outros_metais
+{
+    background: #DC8EC0;
+}
+
+.halogenios
+{
+    background: #05C7F2;
+}
+
+.não_metais
+{
+    background: #5C96C8;
+}
+
+.lantanideos
+{
+    background: #FEC828;
+}
+
+.actinideos
+{
+    background: #CE8F64;
+}
+
+.descricao
+{
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 9px;
+}
+
+.tituloelemento
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 9px;
+    margin-top: 17px;
+}
+
+.pergunta
+{
+    font-size: 22;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 9px;
+}
+
+.resposta
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 9px;
+    margin-bottom: 15px;
+    margin-left: 13px;
+}
+
+.fonte
+{
+    font-size: 12px;
+}
+
